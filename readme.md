@@ -5,10 +5,10 @@
 * Demo of project
 
 ## About the Project
- A drowodown for selecting items
+ A dropdown for selecting items
 
 ## Technologies Used
-    Javascript&nbsp;&nbsp;Html,&nbsp;&nbsp;SCSS & CSS,
+   Javascript,&nbsp;&nbsp;SCSS & CSS,&nbsp;&nbsp;Html
 ## Setup & Execution
 
   * Clone the project -
